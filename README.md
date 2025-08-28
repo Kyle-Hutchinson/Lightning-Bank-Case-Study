@@ -12,7 +12,7 @@ The Bitcoin Derivative Market is substantially larger than the Bitcoin Spot Mark
 
 ## Potential Impact
 
-The current Bitcoin Derivative Marketplaces are provided by centralized exchanges such as Binance or decentralized exchanges such GMX on Arbitrum. By offering a Bitcoin-Native Semi-Decentrialized Derivative Marketplace there is potential to capture a portion of the demand by not requiring funding rates as well as creating new demand by allowing traditional finance to participate in the trade.
+The current Bitcoin Derivative Marketplaces are provided by centralized exchanges such as Binance or decentralized exchanges such GMX on Arbitrum. By offering a Bitcoin-Native Semi-Decentrialized Derivative Marketplace there is potential to capture a portion of the demand by not requiring funding rates as well as creating new demand by allowing traditional finance to participate in the trade. In addition, this solution would provide a trustworthy platform for Bitcoin holders to earn yield on their Bitcoin stack by going 2X Leverage Long and participating in the BTC CAGR yield capture financed by TradFi.
 
 ## Total Addressable Market (TAM)
 
