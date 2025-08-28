@@ -1,0 +1,955 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6" pages="4">
+  <diagram name="Concept Proposal - Lightning Network Bitcoin Derivative Marketplace" id="mlwLuoHmhNgX9RPYeFFQ">
+    <mxGraphModel dx="1426" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-0" />
+        <mxCell id="K7Il_YmciUilAYrwmRAh-1" parent="K7Il_YmciUilAYrwmRAh-0" />
+        <mxCell id="K7Il_YmciUilAYrwmRAh-9" value="Concept Proposal&lt;br&gt;Lightning Network Bitcoin Derivative Marketplace" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=18;fontStyle=1;shadow=0;spacingTop=0;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="10" y="20" width="1115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="62.120000000000005" y="20" width="51.76" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-11" value="PURPOSE" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7ea6e0;gradientDirection=south;fontSize=14;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="15" y="130" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-12" value="SIGNIFICANCE" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#ffd966;fontSize=14;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="15" y="210" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-13" value="POTENTIAL&lt;br&gt;IMPACT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#ea6b66;fontSize=14;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="15" y="290" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-14" value="&lt;font&gt;&lt;b&gt;Implement a &lt;/b&gt;&lt;b&gt;Bitcoin Derivative Marketplace hosted on the Lightning Network&amp;nbsp;&lt;/b&gt;&lt;b&gt;leveraging&amp;nbsp;&lt;/b&gt;&lt;b&gt;Dynamic Liquidity Management and Stable Channels to pair Stable Receivers from traditional capital markets using corporate bonds with Stable Providers from Bitcoin and Stablecoin owners that want to create 2X BTC Leverage Long or Short positions and participate in profit sharing.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Segoe UI;spacing=2;spacingRight=8;spacingLeft=8;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="142" y="130" width="978" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-15" value="&lt;font&gt;&lt;b&gt;The Bitcoin Derivative Market is substantially larger than the Bitcoin Spot Market with a lot of yield potential and by leveraging innovative Lightning Network technologies it can allow traditional capital markets to gain exposure to Bitcoin leverage long and short positions to provide superior yield to current market offerings while providing a mechanism for LQWD Technologies to gain access to funds.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Segoe UI;spacingRight=8;spacingLeft=8;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="142" y="210" width="978" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="K7Il_YmciUilAYrwmRAh-16" value="&lt;font&gt;&lt;b&gt;The current Bitcoin Derivative Marketplaces are provided by centralized exchanges such as Binance or decentralized exchanges such GMX on Arbitrum. By offering a Bitcoin-Native Semi-Decentrialized Derivative Marketplace there is potential to capture a portion of the demand by not requiring funding rates as well as creating new demand by allowing traditional finance to participate in the trade.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Segoe UI;spacing=2;spacingLeft=8;spacingRight=8;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="142" y="290" width="978" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" source="crf8fJezf3CtNOWo-P4q-1" target="crf8fJezf3CtNOWo-P4q-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="580" />
+              <mxPoint x="565" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-1" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#23445D;strokeColor=none;shadow=1;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="25" y="515" width="500" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=none;strokeWidth=6;fillColor=#CCCCCC;size=20;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-1" vertex="1">
+          <mxGeometry y="0.5" width="30" height="40" relative="1" as="geometry">
+            <mxPoint x="120" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-3" value="&lt;b&gt;Corporate Bond Purchasers Seeking Yield&lt;/b&gt;&lt;br&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;1. 600K USD&lt;br&gt;2. 400K USD&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-1" vertex="1">
+          <mxGeometry width="330" height="130" relative="1" as="geometry">
+            <mxPoint x="170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-4" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontColor=#FFFFFF;align=left;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-1" vertex="1">
+          <mxGeometry x="50" y="46.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-5" value="Stable&lt;br&gt;Receiver&lt;br&gt;Allocators" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dddddd;fontSize=15;fontColor=#444444;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="435" y="595" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" source="crf8fJezf3CtNOWo-P4q-7" target="crf8fJezf3CtNOWo-P4q-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="780" />
+              <mxPoint x="565" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-7" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#F2931E;strokeColor=none;shadow=1;fontFamily=Segoe UI;fontSize=12;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="25" y="715" width="500" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-8" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=none;strokeWidth=6;fillColor=#CCCCCC;size=20;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-7" vertex="1">
+          <mxGeometry y="0.5" width="30" height="40" relative="1" as="geometry">
+            <mxPoint x="120" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-9" value="&lt;font&gt;&lt;span&gt;Bitcoin Owners Seeking BTC 2X Long&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. 10 BTC&lt;/div&gt;&lt;div&gt;2. 5 BTC&lt;/div&gt;&lt;div&gt;3. 4 BTC&lt;/div&gt;&lt;div&gt;4. 1 BTC&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;fontFamily=Segoe UI;fontStyle=1" parent="crf8fJezf3CtNOWo-P4q-7" vertex="1">
+          <mxGeometry width="330" height="130" relative="1" as="geometry">
+            <mxPoint x="170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-10" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontColor=#FFFFFF;align=left;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-7" vertex="1">
+          <mxGeometry x="50" y="46.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-11" value="Stable&lt;br&gt;Provider&lt;div&gt;Allocators&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dddddd;fontSize=15;fontColor=#444444;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="435" y="795" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" source="crf8fJezf3CtNOWo-P4q-16" target="crf8fJezf3CtNOWo-P4q-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="680" />
+              <mxPoint x="765" y="542" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" source="crf8fJezf3CtNOWo-P4q-16" target="crf8fJezf3CtNOWo-P4q-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="680" />
+              <mxPoint x="765" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" source="crf8fJezf3CtNOWo-P4q-16" target="crf8fJezf3CtNOWo-P4q-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="680" />
+              <mxPoint x="765" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" source="crf8fJezf3CtNOWo-P4q-16" target="crf8fJezf3CtNOWo-P4q-24" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="765" y="680" />
+              <mxPoint x="765" y="818" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-16" value="Lightning Network&lt;br&gt;Stable Channels &amp;amp;&lt;br&gt;Liquidity On-Demand&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/compute/Function_Apps.svg;fontFamily=Segoe UI;fontStyle=1" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="625" y="645" width="79.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-17" value="Stable Channel #1&#xa;10 BTC Total " style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=7;strokeColor=none;fillColor=#B1DDF0;fontSize=12;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI;noLabel=1;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="807" y="506.58000000000004" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-18" value="&lt;font face=&quot;Segoe UI&quot;&gt;50%&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.5;arcWidth=0.2;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1" parent="crf8fJezf3CtNOWo-P4q-17" vertex="1">
+          <mxGeometry width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-19" value="Stable Channel #2&#xa;5 BTC Total" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=7;strokeColor=none;fillColor=#F8C382;fontSize=12;fontColor=#F2931E;align=center;fontStyle=1;fontFamily=Segoe UI;noLabel=1;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="806.5" y="600" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-20" value="25%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.25;arcWidth=0.2;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-19" vertex="1">
+          <mxGeometry width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-21" value="Stable Channel #3&#xa;4 BTC Total" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=7;strokeColor=none;fillColor=#F08E81;fontSize=12;fontColor=#AE4132;align=center;fontStyle=1;fontFamily=Segoe UI;noLabel=1;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="805" y="690" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-22" value="20%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.2;arcWidth=0.2;strokeColor=none;fillColor=#AE4132;fontSize=22;fontColor=#AE4132;align=center;fontStyle=1;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-21" vertex="1">
+          <mxGeometry width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-23" value="Stable Channel #4&#xa;1 BTC Total" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=7;strokeColor=none;fillColor=#5D7F99;fontSize=12;fontColor=#23445D;align=center;fontStyle=1;fontFamily=Segoe UI;noLabel=1;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="807.5" y="783.4200000000001" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-24" value="5%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.05;arcWidth=0.2;strokeColor=none;fillColor=#23445D;fontSize=22;fontColor=#23445D;align=center;fontStyle=1;fontFamily=Segoe UI;" parent="crf8fJezf3CtNOWo-P4q-23" vertex="1">
+          <mxGeometry width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-25" value="&lt;font&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;b&gt;Stable Channel #1 - 10 BTC Total&lt;/b&gt;&lt;/font&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span&gt;-&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Stable Provider Liquidity = 5 BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Stable Receiver Liquidity =&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5 BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span&gt;- Stable Receiver Balance = 500K USD&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=8;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="886" y="500" width="230" height="83.16" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-26" value="&lt;font&gt;&lt;font color=&quot;#F2931E&quot;&gt;&lt;b&gt;Stable Channel #2 - 5 BTC Total&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Stable Provider Liquidity = 2.5 BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Stable Receiver Liquidity = 2.&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5 BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Stable Receiver Balance = 250K USD&lt;/div&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=8;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="885.5" y="593.42" width="230" height="83.16" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-27" value="&lt;font&gt;&lt;font color=&quot;#AE4132&quot;&gt;&lt;b&gt;Stable Channel #3 - 4 BTC Total&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Stable Provider Liquidity = 2 BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Stable Receiver Liquidity = 2&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Stable Receiver Balance = 200K USD&lt;/div&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=8;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="885" y="683.4200000000001" width="230" height="83.16" as="geometry" />
+        </mxCell>
+        <mxCell id="crf8fJezf3CtNOWo-P4q-28" value="&lt;font&gt;&lt;font color=&quot;#23445d&quot;&gt;&lt;b&gt;Stable Channel #4 - 1 BTC Total&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Stable Provider Liquidity = 0.5 BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Stable Receiver Liquidity = 0.&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;5 BTC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Stable Receiver Balance = 50K USD&lt;/div&gt;&lt;/div&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=left;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;spacing=8;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="886" y="776.84" width="230" height="83.16" as="geometry" />
+        </mxCell>
+        <mxCell id="bTpHjI49PN33j48WKOkc-33" value="BTC 2X Leverage Long&lt;br&gt;Example Tranche if 1 BTC = 100K USD" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=18;fontStyle=1;shadow=0;spacingTop=0;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="10" y="410" width="1115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bTpHjI49PN33j48WKOkc-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Globe_Success.svg;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="57.120000000000005" y="410" width="67.88" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vCGJpI7okgSBiHG1taqU-0" value="Example Process Workflow" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=18;fontStyle=1;shadow=0;spacingTop=0;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="25" y="880" width="1115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-0" value="" style="endArrow=none;html=1;strokeWidth=3;strokeColor=#CCCCCC;labelBackgroundColor=none;fontSize=16;rounded=0;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" source="OcqEN2vrUteQqK3l1YQm-1" target="OcqEN2vrUteQqK3l1YQm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=none;strokeColor=#333333;fontSize=16;align=center;strokeWidth=2;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="576.5" y="960" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;fillColor=none;strokeColor=#333333;fontSize=16;align=center;strokeWidth=2;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="576.5" y="1680" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-3" value="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#10739E;labelPosition=center;align=left;fontColor=#10739E;fontStyle=1;fontSize=24;shadow=0;direction=north;fontFamily=Segoe UI;spacingLeft=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="342.5" y="990" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-4" value="2" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#F2931E;labelPosition=center;align=right;fontColor=#F2931E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;fontFamily=Segoe UI;spacing=2;spacingRight=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="576.5" y="1060" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-5" value="3" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#AE4132;labelPosition=center;align=left;fontColor=#AE4132;fontStyle=1;fontSize=24;shadow=0;direction=north;fontFamily=Segoe UI;spacingLeft=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="342.5" y="1130" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-6" value="4" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#23445D;labelPosition=center;align=right;fontColor=#23445D;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;fontFamily=Segoe UI;spacingRight=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="576.5" y="1200" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-7" value="5" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#12AAB5;labelPosition=center;align=left;fontColor=#12AAB5;fontStyle=1;fontSize=24;shadow=0;direction=north;fontFamily=Segoe UI;spacingLeft=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="342.5" y="1270" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-8" value="6" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#56517E;labelPosition=center;align=right;fontColor=#56517E;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;fontFamily=Segoe UI;spacingRight=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="576.5" y="1340" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-9" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Establish bond fixed/flexible duration and fixed/flexible yield&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="412.5" y="1030" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-10" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Commit liquidity to Stable Provider Pool. Overcommitting is recommended to establish your weighted average&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="592.5" y="1100" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-11" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Commit Fiat to Stable Receiver Pool by selling Corporate Bonds&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="412.5" y="1170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-12" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Buy liquidity with Fiat received from Corporate Bonds&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="592.5" y="1240" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-13" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Evenly distribute liquidity into Stable Channels. Unallocated liquidity from Stable Providers is not used&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="412.5" y="1310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-14" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Pay Interest to Bond Holders. Paid by Stable Providers to Stable Receivers&amp;nbsp;&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="592.5" y="1380" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-15" value="7" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#336600;labelPosition=center;align=left;fontColor=#336600;fontStyle=1;fontSize=24;shadow=0;direction=north;fontFamily=Segoe UI;spacingLeft=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="342.5" y="1410" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OcqEN2vrUteQqK3l1YQm-16" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;If the Stable Receiver Balance plus buffer cannot be maintained then the Stable Provider is liquidated to ensure the Bond value remains intact&amp;nbsp;&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="412.5" y="1450" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ObLrXtfqvExmGB75tZ7J-1" value="8" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.infographic.circularCallout2;dy=15;strokeColor=#3399FF;labelPosition=center;align=right;fontColor=#3399FF;fontStyle=1;fontSize=24;shadow=0;direction=north;flipH=1;fontFamily=Segoe UI;spacingRight=22;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="576.5" y="1490" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ObLrXtfqvExmGB75tZ7J-2" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;When the bond reaches maturity the original deposit will be returned back or extended if protocol supports the feature and Stable Providers are available&lt;/span&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Segoe UI;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+          <mxGeometry x="592.5" y="1530" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Business Case - 30% CAGR" id="FuFdQoI52-eChBrrMoKE">
+    <mxGraphModel dx="1426" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-0" />
+        <mxCell id="KqIesDxo9Jz2Pd781mid-1" parent="KqIesDxo9Jz2Pd781mid-0" />
+        <mxCell id="KqIesDxo9Jz2Pd781mid-2" value="Lightning Network Stable Channels Business Case - No Share Dilution Required&lt;br&gt;BTC 2X Leverage Long&amp;nbsp;Example Tranche" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=18;fontStyle=1;shadow=1;spacingTop=0;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="10" y="20" width="1240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="62.120000000000005" y="20" width="51.76" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-4" value="0%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.001;arcWidth=0.4;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="543.7" y="279" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-5" value="80%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=.8;arcWidth=0.4;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="543.7" y="394" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-6" value="20%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.2;arcWidth=0.4;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="686.8299999999998" y="279" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-7" value="60%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.6;arcWidth=0.4;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="686.8299999999998" y="394" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-8" value="20%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.2;arcWidth=0.4;strokeColor=none;fillColor=#AE4132;fontSize=22;fontColor=#AE4132;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="543.7" y="169" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-9" value="20%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.2;arcWidth=0.4;strokeColor=none;fillColor=#AE4132;fontSize=22;fontColor=#AE4132;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="686.8299999999998" y="169" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-10" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#23445D;strokeColor=none;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="9.999999999999972" y="284" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-11" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=none;strokeWidth=6;fillColor=#CCCCCC;size=20;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-10" vertex="1">
+          <mxGeometry y="0.5" width="30" height="40" relative="1" as="geometry">
+            <mxPoint x="120" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-12" value="&lt;b&gt;Corporate Bond Purchasers Seeking Yield&lt;/b&gt;&lt;br&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;1M USD&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-10" vertex="1">
+          <mxGeometry width="330" height="130" relative="1" as="geometry">
+            <mxPoint x="170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-13" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontColor=#FFFFFF;align=left;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-10" vertex="1">
+          <mxGeometry x="50" y="26.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-14" value="Stable&lt;br&gt;Receiver" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dddddd;fontSize=15;fontColor=#444444;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="420" y="324" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-15" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#F2931E;strokeColor=none;shadow=1;fontFamily=Segoe UI Light;fontSize=12;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="9.999999999999972" y="394" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-16" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=none;strokeWidth=6;fillColor=#CCCCCC;size=20;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-15" vertex="1">
+          <mxGeometry y="0.5" width="30" height="40" relative="1" as="geometry">
+            <mxPoint x="120" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-17" value="&lt;font&gt;&lt;span&gt;Bitcoin Owners Seeking BTC 2X Long&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10 BTC&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;fontFamily=Segoe UI Light;fontStyle=1" parent="KqIesDxo9Jz2Pd781mid-15" vertex="1">
+          <mxGeometry width="330" height="130" relative="1" as="geometry">
+            <mxPoint x="170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-18" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontColor=#FFFFFF;align=left;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-15" vertex="1">
+          <mxGeometry x="50" y="26.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-19" value="Stable&lt;br&gt;Provider" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#f5f5f5;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#b3b3b3;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="10.409999999999997" y="810" width="149.44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-20" value="0.46 BTC | 0.06M" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="179.85000000000002" y="690" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-21" value="0.46 BTC | 0.06M" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="179.85000000000002" y="750" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-22" value="1.38 BTC | 0.18M" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="179.85000000000002" y="810" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-23" value="0.82 BTC | 0.14M" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="329.85000000000014" y="690" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-24" value="0.82 BTC | 0.14M" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="329.85000000000014" y="750" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-25" value="2.45 BTC | 0.41M" style="shape=rect;fillColor=#FCE7CD;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="329.85000000000014" y="810" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-26" value="1.09 BTC | 0.24M" style="shape=rect;fillColor=#FAD9D5;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="479.85000000000014" y="690" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-27" value="1.09 BTC | 0.24M" style="shape=rect;fillColor=#FAD9D5;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="479.85000000000014" y="750" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-28" value="3.27 BTC | 0.72M" style="shape=rect;fillColor=#FAD9D5;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="479.85000000000014" y="810" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-29" value="1.30 BTC | 0.37M" style="shape=rect;fillColor=#BAC8D3;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="629.8500000000001" y="690" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-30" value="1.30 BTC | 0.37M" style="shape=rect;fillColor=#BAC8D3;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="629.8500000000001" y="750" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-31" value="3.90 BTC | 1.11M" style="shape=rect;fillColor=#BAC8D3;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="629.8500000000001" y="810" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-32" value="1.46 BTC | 0.54M" style="shape=rect;fillColor=#B0E3E6;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="779.8500000000001" y="690" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-33" value="1.46 BTC | 0.54M" style="shape=rect;fillColor=#B0E3E6;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="779.8500000000001" y="750" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-34" value="4.38 BTC | 1.63M" style="shape=rect;fillColor=#B0E3E6;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="779.8500000000001" y="810" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-35" value="2.31 BTC | 0.30M" style="shape=rect;fillColor=#dae8fc;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;shadow=1;gradientColor=#7ea6e0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="178.73000000000002" y="880" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-36" value="4.08 BTC | 0.69M" style="shape=rect;fillColor=#dae8fc;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;shadow=1;gradientColor=#7ea6e0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="328.73000000000013" y="880" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-37" value="5.45 BTC | 1.20M" style="shape=rect;fillColor=#dae8fc;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;shadow=1;gradientColor=#7ea6e0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="478.73000000000013" y="880" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-38" value="6.50 BTC | 1.86M" style="shape=rect;fillColor=#dae8fc;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;shadow=1;gradientColor=#7ea6e0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="628.7300000000001" y="880" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-39" value="7.31 BTC | 2.71M" style="shape=rect;fillColor=#dae8fc;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;shadow=1;gradientColor=#7ea6e0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="778.7300000000001" y="880" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-40" value="YEAR 1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="179.85000000000002" y="550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-41" value="YEAR 2" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="329.85000000000014" y="550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-42" value="YEAR 3" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#AE4132;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="479.85000000000014" y="550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-43" value="YEAR 4" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#23445D;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="629.8500000000001" y="550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-44" value="130K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="179.85000000000002" y="590" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-45" value="169K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="329.85000000000014" y="590" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-46" value="219.7K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="479.85000000000014" y="590" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-47" value="285.61K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="629.8500000000001" y="590" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-48" value="371.293K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="779.8500000000001" y="590" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-49" value="0.29 BTC | 0.11M" style="shape=rect;fillColor=#d5e8d4;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7AAA61;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="940.4100000000001" y="690" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-50" value="0.29 BTC | 0.11M" style="shape=rect;fillColor=#d5e8d4;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7AAA61;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="941.53" y="750" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-51" value="0.88 BTC | 0.33M" style="shape=rect;fillColor=#d5e8d4;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7AAA61;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="941.53" y="810" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-52" value="&lt;div&gt;1.46 BTC | 0.54M&lt;/div&gt;" style="shape=rect;fillColor=#dae8fc;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7ea6e0;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="940.4100000000001" y="880" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="870" as="sourcePoint" />
+            <mxPoint x="1230" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="929.8500000000001" y="930" as="sourcePoint" />
+            <mxPoint x="930.4100000000001" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-55" value="YEAR 5" style="html=1;shape=mxgraph.infographic.ribbonFrontFolded;dx=25;dy=15;notch=15;fillColor=#12AAB5;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=17;fontStyle=1;spacingTop=10;flipH=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="776.7300000000001" y="535" width="142" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.9699999999999" y="930" as="sourcePoint" />
+            <mxPoint x="170.52999999999986" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-57" value="Stable&lt;br&gt;Receiver" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#f5f5f5;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#b3b3b3;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="10.409999999999997" y="750" width="149.44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-58" value="Stable Channel&lt;br&gt;Facilitator" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#f5f5f5;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#b3b3b3;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="10.409999999999997" y="690" width="149.44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-59" value="Stable&lt;br&gt;Provider" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dddddd;fontSize=15;fontColor=#444444;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="420" y="439" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-60" value="Total&lt;br&gt;Yield" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dae8fc;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI;gradientColor=#7ea6e0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="10.409999999999997" y="880" width="149.44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-61" value="BTC USD Value&lt;br&gt;Starting at 100K&lt;div&gt;&amp;amp; BTC CAGR 30%&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#ffcd28;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#ffa500;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="10.409999999999997" y="590" width="149.44" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-62" value="Average Yearly&amp;nbsp;Return : BTC | USD&lt;br&gt;Assuming BTC CAGR 30%" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#d5e8d4;fontSize=16;align=left;direction=south;flipH=0;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI;gradientColor=#7AAA61;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="940.41" y="550" width="309.59" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-63" value="Cumulative Yield : BTC | USD" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#d5e8d4;fontSize=16;align=center;direction=south;flipH=0;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#7AAA61;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="180.40999999999997" y="650" width="738.32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-64" value="2.9% | 11%" style="shape=rect;fillColor=#d5e8d4;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7AAA61;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1100" y="690" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-65" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;2.9% | &lt;/span&gt;11%" style="shape=rect;fillColor=#d5e8d4;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7AAA61;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1100" y="750" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-66" value="8.8%&lt;span style=&quot;font-weight: normal;&quot;&gt; | 33%&lt;/span&gt;" style="shape=rect;fillColor=#d5e8d4;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7AAA61;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1100" y="810" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-67" value="14.6% | 54%" style="shape=rect;fillColor=#dae8fc;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#7ea6e0;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1100" y="880" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-68" value="Bond Duration" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dae8fc;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#7ea6e0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="10.409999999999997" y="550" width="149.44" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-69" value="" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;fillColor=#AE4132;strokeColor=none;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="9.999999999999972" y="174" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-70" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=0;strokeColor=none;strokeWidth=6;fillColor=#CCCCCC;size=20;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-69" vertex="1">
+          <mxGeometry y="0.5" width="30" height="40" relative="1" as="geometry">
+            <mxPoint x="120" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-71" value="&lt;b&gt;Corporate Bond Issuers Building BTC Treasuries&lt;/b&gt;&lt;br&gt;&lt;font&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;b&gt;LQWD Technologies&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacing=5;spacingTop=0;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;fontSize=15;fontColor=#FFFFFF;align=left;html=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-69" vertex="1">
+          <mxGeometry width="330" height="130" relative="1" as="geometry">
+            <mxPoint x="170" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-72" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.intune.user_group;fontSize=15;fontColor=#FFFFFF;align=left;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-69" vertex="1">
+          <mxGeometry x="50" y="26.5" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-73" value="Stable Channel Facilitator" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dddddd;fontSize=15;fontColor=#444444;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="420" y="214" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-74" value="Market Participants" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="9.999999999999972" y="130" width="510.79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-75" value="Risk Profile" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="520.79" y="130" width="145.83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-76" value="Yield Allocation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="666.62" y="130" width="140.42" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-77" value="Average Yearly Return for 5 Year Bonds" style="html=1;shape=mxgraph.infographic.ribbonFrontFolded;dx=25;dy=15;notch=15;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=17;fontStyle=1;spacingTop=10;flipH=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="115" width="442.96" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-78" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="177" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-79" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="198" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-80" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="219" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-81" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="240" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-82" value="$1M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="177" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-83" value="$10M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="198" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-84" value="$100M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="219" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-85" value="$1B" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="240" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-86" value="0.29 BTC | 0.11M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#10739E;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="177" width="152.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-87" value="2.9 BTC | 1.1M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#23445D;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="198" width="222.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-88" value="29 BTC | 11M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#AE4132;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="219" width="292.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-89" value="290 BTC | 110M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#F2931E;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="240" width="362.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-90" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="287" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-91" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="308" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-92" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="329" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-93" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="350" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-94" value="$1M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="287" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-95" value="$10M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="308" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-96" value="$100M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="329" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-97" value="$1B" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="350" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-98" value="0.29 BTC | 0.11M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#10739E;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="287" width="152.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-99" value="2.9 BTC | 1.1M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#23445D;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="308" width="222.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-100" value="29 BTC | 11M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#AE4132;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="329" width="292.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-101" value="290 BTC | 110M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#F2931E;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="350" width="362.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-102" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="402" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-103" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="423" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-104" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="444" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-105" value="" style="whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#dddddd;strokeColor=none;rounded=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="465" width="442.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-106" value="$1M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="402" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-107" value="$10M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="423" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-108" value="$100M" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="444" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-109" value="$1B" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=16;spacingRight=10;fontFamily=Segoe UI Light;fontStyle=1;spacingTop=-4;spacing=0;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="1190" y="465" width="60" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-110" value="1.04 BTC | $0.79M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#10739E;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="402" width="152.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-111" value="8.8 BTC | 3.3M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#23445D;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="423" width="222.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-112" value="88 BTC | 33M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#AE4132;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="444" width="292.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-113" value="880 BTC | 330M" style="shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;fillColor=#F2931E;strokeColor=none;align=left;verticalAlign=middle;fontSize=16;spacingLeft=10;fontStyle=1;shadow=0;fontFamily=Segoe UI Light;spacingTop=-2;gradientColor=none;fontColor=#FFFFFF;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="807.04" y="465" width="362.96" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="KqIesDxo9Jz2Pd781mid-114" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Metrics.svg;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+          <mxGeometry x="950" y="523.5" width="64" height="68" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e_n8AgJciQ0zkKH7FDAA" name="TAM">
+    <mxGraphModel dx="5774" dy="3506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="05vmAjeFXECdXeqzvgiy-2" value="Investment Products&lt;div&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#B1DDF0;strokeColor=#000000;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI Light;spacingLeft=50;spacingRight=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="-870" width="1660" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="htudoFk2aYl1LAcUTIMH-2" value="&lt;span&gt;Equities&lt;/span&gt;&lt;div&gt;&lt;span&gt;$135T&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Stock investors, options traders&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI Light;spacingLeft=50;spacingRight=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="-450" width="1120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="09DMkUESw23hGvCzjR7i-8" value="&lt;span&gt;Real Estate&lt;/span&gt;&lt;div&gt;&lt;span&gt;$370T&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 22px;&quot;&gt;Low Velocity Capital&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;High Risk Yield&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 22px;&quot;&gt;&lt;br&gt;Property owners seeking appreciating income&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#f8cecc;strokeColor=#b85450;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI Light;spacingLeft=50;spacingRight=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="-170" width="630" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="VdG5-cxZlraJAlJ95JOD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.48;exitY=0.056;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.995;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aWNnTPrdDTkbjUmg3x9o-3" target="utBkKtJJAFYw3Nw_7V-f-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-305" y="-350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-436" y="-210" />
+              <mxPoint x="-265" y="-210" />
+              <mxPoint x="-265" y="-350" />
+              <mxPoint x="-304" y="-350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cZH_yc6z-a04cjojt5OC-1" value="&lt;span&gt;Bonds&lt;/span&gt;&lt;div&gt;&lt;span&gt;$318T&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px; background-color: transparent;&quot;&gt;Medium Velocity Capital&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Medium Risk Yield&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px; background-color: transparent;&quot;&gt;&lt;br&gt;Fiat lenders seeking fixed income and/or convertible notes&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#f5f5f5;strokeColor=#666666;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI Light;spacingLeft=50;spacingRight=50;fontColor=#333333;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="-170" width="550" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=200;entryDy=30.060000000000002;entryPerimeter=0;strokeWidth=2;exitX=0.485;exitY=0.034;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="utBkKtJJAFYw3Nw_7V-f-6" target="htudoFk2aYl1LAcUTIMH-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-368.53925999999956" y="-411.5378300000002" as="sourcePoint" />
+            <mxPoint x="70" y="-170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-351" y="-510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htudoFk2aYl1LAcUTIMH-3" value="&lt;span&gt;Collectibles&lt;/span&gt;&lt;div&gt;&lt;span&gt;$27T&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Art, cars&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI Light;spacingLeft=50;spacingRight=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="-450" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="htudoFk2aYl1LAcUTIMH-4" value="&lt;span&gt;Gold&lt;/span&gt;&lt;div&gt;&lt;span&gt;$22T&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI Light;spacingLeft=50;spacingRight=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="-450" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="htudoFk2aYl1LAcUTIMH-5" value="" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#FF916D;strokeColor=#d79b00;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI;spacingLeft=50;spacingRight=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="-450" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="htudoFk2aYl1LAcUTIMH-6" target="VdG5-cxZlraJAlJ95JOD-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1020" y="-510" />
+              <mxPoint x="-1020" y="-710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htudoFk2aYl1LAcUTIMH-6" value="Bitcoin $2T" style="html=1;shape=mxgraph.infographic.barCallout;dx=34.38;dy=29.88;fillColor=#FF916D;strokeColor=#d79b00;align=center;verticalAlign=top;fontSize=29;fontStyle=1;shadow=1;spacingTop=5;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-980" y="-540" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YyzDmStjWqDVJIzt7jx1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;entryX=0.004;entryY=0.487;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.007;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VdG5-cxZlraJAlJ95JOD-1" target="YyzDmStjWqDVJIzt7jx1-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1230" y="-710" as="sourcePoint" />
+            <mxPoint x="-1293.6399999999999" y="-395.99999999999955" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1290" y="-710" />
+              <mxPoint x="-1290" y="-407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.017;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.015;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VdG5-cxZlraJAlJ95JOD-1" target="wRWB3SBWIFUE5SVv5PM6-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1079.8475000000003" y="-296.9100000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1290" y="-710" />
+              <mxPoint x="-1290" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.011;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;entryX=0.011;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VdG5-cxZlraJAlJ95JOD-1" target="jz7RjVb0MJ5oIAcBmZgl-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1375" y="-106" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1290" y="-709" />
+              <mxPoint x="-1290" y="-216" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdG5-cxZlraJAlJ95JOD-5" value="&lt;font face=&quot;Segoe UI Light&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Lightning Bank Investment Products facilitate the distribution of dynamic yield o&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI Light&amp;quot;;&quot;&gt;ver time based on the initial fiat currency investment by following to the&lt;/span&gt;&lt;font face=&quot;Segoe UI Light&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Bitcoin Compound Annual Growth Rate (BTC CAGR). Assets with 10%+ CAGR will provide superior yield compared it&#39;s legacy fixed yield counterparts,&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; background-color: transparent;&quot;&gt;&amp;nbsp;however if the asset underperforms within the duration of the position then so does the yield. Flexible durations allow responsive deposits and withdrawals while fixed durations are longer term contracts. Flexible yields follow the BTC CAGR for all participants while fixed yields offload the fixed yield obligation from a central authority to the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Segoe UI Light&amp;quot;;&quot;&gt;decentralized&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; background-color: transparent;&quot;&gt;&amp;nbsp;Stability Provider in return for an increase in BTC CAGR earnings from 50% to 80%.&amp;nbsp;&lt;/span&gt;" style="shape=rect;fillColor=#B1DDF0;strokeColor=none;fontSize=19;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=16;fontFamily=Segoe UI;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-315" y="-775" width="975" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="htudoFk2aYl1LAcUTIMH-1" value="&lt;span&gt;Money&lt;/span&gt;&lt;div&gt;&lt;span&gt;$129T&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;High Velocity Capital&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Low Risk Yield&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;Money market funds, high-interest savings, short-term T-bills&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.infographic.numberedEntryVert;dy=25;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=29;align=center;labelPosition=center;spacingTop=32;fontStyle=1;whiteSpace=wrap;gradientDirection=north;fontFamily=Segoe UI Light;spacingLeft=50;spacingRight=50;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="-170" width="420" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;exitX=1.001;exitY=0.503;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=1 4;" parent="1" source="wRWB3SBWIFUE5SVv5PM6-2" target="aWNnTPrdDTkbjUmg3x9o-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="154.77000000000044" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1020" y="-35" />
+              <mxPoint x="-1020" y="-190" />
+              <mxPoint x="-505" y="-190" />
+              <mxPoint x="-505" y="-99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wRWB3SBWIFUE5SVv5PM6-1" value="Stable Receivers" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=7;strokeColor=none;fillColor=#B1DDF0;fontSize=19;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1218" y="-95" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wRWB3SBWIFUE5SVv5PM6-2" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;30% of&lt;/span&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;BTC CAGR&lt;/span&gt;&lt;br style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;Yield&lt;/span&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.3;arcWidth=0.1;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI;" parent="wRWB3SBWIFUE5SVv5PM6-1" vertex="1">
+          <mxGeometry width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YyzDmStjWqDVJIzt7jx1-5" value="Stable Providers" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=7;strokeColor=none;fillColor=#F8C382;fontSize=19;fontColor=#F2931E;align=center;fontStyle=1;fontFamily=Segoe UI;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1218" y="-465" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YyzDmStjWqDVJIzt7jx1-6" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 19px; color: rgb(242, 147, 30);&quot;&gt;50% of&lt;br&gt;BTC CAGR&lt;br&gt;Yield&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.5;arcWidth=0.1;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#AE4132;align=center;fontStyle=1;fontFamily=Segoe UI;" parent="YyzDmStjWqDVJIzt7jx1-5" vertex="1">
+          <mxGeometry width="130" height="119.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-3" value="&lt;b style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fixed Duration&lt;br&gt;Flexible Yield&lt;br&gt;Bonds&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Certificates.svg;fontFamily=Segoe UI Light;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-475" y="-130.66999999999996" width="80.31" height="73.23" as="geometry" />
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.445;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aWNnTPrdDTkbjUmg3x9o-5" target="utBkKtJJAFYw3Nw_7V-f-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-380" y="80" as="sourcePoint" />
+            <mxPoint x="-665" y="-290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131" y="-210" />
+              <mxPoint x="-265" y="-210" />
+              <mxPoint x="-265" y="-350" />
+              <mxPoint x="-295" y="-350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-5" value="&lt;b style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fixed Duration&lt;br&gt;Fixed or Flexible Yield&lt;br&gt;Bonds&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Certificates.svg;fontFamily=Segoe UI Light;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="-130.67000000000002" width="80.31" height="73.23" as="geometry" />
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.522;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aWNnTPrdDTkbjUmg3x9o-8" target="utBkKtJJAFYw3Nw_7V-f-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="90" as="sourcePoint" />
+            <mxPoint x="-45" y="-280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="585" y="-125" />
+              <mxPoint x="585" y="-210" />
+              <mxPoint x="-265" y="-210" />
+              <mxPoint x="-265" y="-350" />
+              <mxPoint x="-305" y="-350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-8" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; font-size: 19px;&quot;&gt;Flexible Duration&lt;br&gt;Fixed or Flexible Yield&lt;br&gt;Deposits&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Budgets.svg;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="553" y="-128.06" width="67" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-9" value="&lt;b style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fixed Duration&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fixed Yield&lt;br&gt;Bonds&lt;/b&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Certificates.svg;fontFamily=Segoe UI Light;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-760" y="-764.77" width="80.31" height="73.23" as="geometry" />
+        </mxCell>
+        <mxCell id="aWNnTPrdDTkbjUmg3x9o-10" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; font-size: 19px;&quot;&gt;Flexible Duration&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; font-size: 19px;&quot;&gt;Flexible Yield&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; font-size: 19px;&quot;&gt;&lt;br&gt;Deposits&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Budgets.svg;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-590" y="-759.54" width="67" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="jz7RjVb0MJ5oIAcBmZgl-1" value="Liquidity Service Provider" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.donut;dx=7;strokeColor=none;fillColor=#F08E81;fontSize=19;fontColor=#AE4132;align=center;fontStyle=1;fontFamily=Segoe UI;noLabel=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1218" y="-280.00000000000006" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jz7RjVb0MJ5oIAcBmZgl-2" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 19px;&quot;&gt;20% of&lt;br&gt;BTC CAGR&lt;br&gt;Yield&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.basic.partConcEllipse;startAngle=0;endAngle=0.2;arcWidth=0.1;strokeColor=none;fillColor=#AE4132;fontSize=22;fontColor=#AE4132;align=center;fontStyle=1;fontFamily=Segoe UI;" parent="jz7RjVb0MJ5oIAcBmZgl-1" vertex="1">
+          <mxGeometry width="130" height="119.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-6" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;LQWD&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/compute/Function_Apps.svg;fontFamily=Segoe UI Light;fontStyle=1;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-394.69000000000005" y="-390" width="90.65" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;exitX=1.002;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=1 4;" parent="1" source="wRWB3SBWIFUE5SVv5PM6-2" target="aWNnTPrdDTkbjUmg3x9o-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1105" y="20" as="sourcePoint" />
+            <mxPoint x="-431" y="1" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1086" y="-34" />
+              <mxPoint x="-1020" y="-35" />
+              <mxPoint x="-1020" y="-190" />
+              <mxPoint x="65" y="-190" />
+              <mxPoint x="65" y="-104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.038;entryY=0.541;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;exitX=1.003;exitY=0.504;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=1 4;" parent="1" source="wRWB3SBWIFUE5SVv5PM6-2" target="aWNnTPrdDTkbjUmg3x9o-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1075" y="19" as="sourcePoint" />
+            <mxPoint x="171" y="-4" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1020" y="-34" />
+              <mxPoint x="-1020" y="-190" />
+              <mxPoint x="525" y="-190" />
+              <mxPoint x="525" y="-91" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VdG5-cxZlraJAlJ95JOD-1" value="&lt;font face=&quot;Segoe UI&quot; style=&quot;font-size: 19px;&quot;&gt;Lightning Network&lt;br&gt;Stable Channels&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/compute/Function_Apps.svg;fontFamily=Segoe UI;fontStyle=1;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1230" y="-770" width="135.98" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeWidth=2;exitX=1.005;exitY=0.491;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=1 4;" parent="1" source="jz7RjVb0MJ5oIAcBmZgl-1" target="utBkKtJJAFYw3Nw_7V-f-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-515" y="-41" as="sourcePoint" />
+            <mxPoint x="98" y="-69" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-455" y="-221" />
+              <mxPoint x="-455" y="-350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="utBkKtJJAFYw3Nw_7V-f-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=6.25;entryPerimeter=0;dashed=1;strokeWidth=2;exitX=1.013;exitY=0.475;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=1 4;" parent="1" source="YyzDmStjWqDVJIzt7jx1-6" target="htudoFk2aYl1LAcUTIMH-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1015" y="-128" as="sourcePoint" />
+            <mxPoint x="-322" y="-240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1086" y="-409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xw0B9TmDOUc5O-2Bh9Im-1" value="Lightning Bank Case Study&lt;br&gt;Total Addressable Market" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=29;fontStyle=1;shadow=1;spacingTop=0;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-1310" y="-970" width="1990" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xw0B9TmDOUc5O-2Bh9Im-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-1221.54" y="-970" width="119.06" height="184.02" as="geometry" />
+        </mxCell>
+        <mxCell id="05vmAjeFXECdXeqzvgiy-3" value="&lt;b style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fixed Duration&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Flexible Yield&lt;br&gt;Bonds&lt;/b&gt;&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/app_services/App_Service_Certificates.svg;fontFamily=Segoe UI Light;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-920.15" y="-764.77" width="80.31" height="73.23" as="geometry" />
+        </mxCell>
+        <mxCell id="8Sxy7IDVjHlxJ4cAQlgh-1" value="&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; font-size: 19px;&quot;&gt;Flexible Duration&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; font-size: 19px;&quot;&gt;Fixed Yield&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-family: &amp;quot;Segoe UI Light&amp;quot;; font-size: 19px;&quot;&gt;&lt;br&gt;Deposits&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Cost_Budgets.svg;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="-759.54" width="67" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="l4YvkSsT2K95IFTMfYwz-3" value="&lt;div&gt;2025-08-23&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;X: @KyleHutch_&lt;/span&gt;&lt;/div&gt;&lt;br&gt;TAM Image Credit:&lt;br&gt;X: Croesus_BTC" style="shape=rect;fillColor=none;strokeColor=default;fontSize=22;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;shadow=1;fontFamily=Segoe UI Light;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1300" y="100" width="290" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="S5sE5Iwd0YpnepjB0Lg1-1" value="1" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=1;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-910" y="-840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="edPKHTcSsvDas1NbgnUP-3" value="2" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=1;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-749.84" y="-840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="edPKHTcSsvDas1NbgnUP-4" value="3" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=1;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-586.5" y="-840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="edPKHTcSsvDas1NbgnUP-5" value="4" style="shape=ellipse;perimeter=ellipsePerimeter;fontSize=22;fontStyle=1;shadow=1;strokeColor=#ffffff;fillColor=#10739E;strokeWidth=4;fontColor=#ffffff;align=center;whiteSpace=wrap;html=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-426.5" y="-840" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pTBD9Sa9OOWquHD_BbGl" name="TVL Milestones">
+    <mxGraphModel dx="3126" dy="1942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-1" value="6 Months" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#10739E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1462.24" y="-965" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-2" value="12 Months" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#F2931E;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1312.24" y="-965" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-3" value="18 Months" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#AE4132;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1162.24" y="-965" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-4" value="24 Months" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;fillColor=#23445D;strokeColor=none;fontSize=17;fontColor=#FFFFFF;fontStyle=1;align=center;rounded=0;fontFamily=Segoe UI Light;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-1012.2399999999998" y="-965" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-5" value="100K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1462.24" y="-916" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-6" value="250K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1312.24" y="-916" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-7" value="500K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1162.24" y="-916" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-8" value="750K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1012.2399999999998" y="-916" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-9" value="1M" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-862.2399999999999" y="-916" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-10" value="30 Months" style="html=1;shape=mxgraph.infographic.ribbonFrontFolded;dx=25;dy=15;notch=15;fillColor=#12AAB5;strokeColor=none;align=center;verticalAlign=middle;fontColor=#ffffff;fontSize=17;fontStyle=1;spacingTop=10;flipH=1;fontFamily=Segoe UI Light;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-865.3599999999998" y="-980" width="142" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-11" value="Bitcoin Total Value&lt;br&gt;Locked - BTC TVL" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#ffcd28;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="-916" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-12" value="Milestone Estimates" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#dae8fc;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#7ea6e0;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="-965" width="208.32" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-13" value="50K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1461.68" y="-846" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-14" value="125K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1311.68" y="-846" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-15" value="250K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1161.6799999999998" y="-846" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-16" value="375K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1011.68" y="-846" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-17" value="500K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-861.68" y="-846" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-18" value="Bitcoin&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Purchased&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;for Stable Receivers&lt;/span&gt;&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#ffcd28;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="-846" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-22" value="Stable Receiver&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-1270.56" y="-391" width="70" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-23" value="Stable Receiver&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-1420.56" y="-366" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-24" value="Stable Provider&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;spacingTop=-100;" parent="1" vertex="1">
+          <mxGeometry x="-1420.56" y="-388" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-25" value="Stable Provider&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;spacingTop=-125;" parent="1" vertex="1">
+          <mxGeometry x="-1270.56" y="-441" width="70" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-26" value="Stable Receiver&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-1126.6799999999998" y="-416" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-27" value="Stable Provider&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;spacingTop=-150;" parent="1" vertex="1">
+          <mxGeometry x="-1125.56" y="-488" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-28" value="Stable Receiver&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-976.68" y="-456" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-29" value="Stable Provider&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;spacingTop=-190;" parent="1" vertex="1">
+          <mxGeometry x="-976.68" y="-571" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-30" value="Stable Receiver&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-827.68" y="-496" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-31" value="Stable Provider&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;spacingTop=-230;" parent="1" vertex="1">
+          <mxGeometry x="-826.12" y="-651" width="70" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7dquLjJcAC0k5EE_MJn-33" value="Bitcoin Distribution&lt;br&gt;&lt;br&gt;Stable Providers =&lt;br&gt;Bitcoin Holders going&lt;div&gt;2X Leverage Long&lt;/div&gt;&lt;br&gt;Stable Receivers =&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fiat Denominated&lt;br&gt;Bond &amp;amp; Deposit&lt;br&gt;Holders&lt;/span&gt;&amp;nbsp;&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#f5f5f5;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#b3b3b3;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="-686" width="210" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="XrsOupSMKZ9p7UgrNoPE-1" value="Lightning Bank Case Study&lt;br&gt;Bitcoin Total Value Locked Milestones" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=29;fontStyle=1;shadow=1;spacingTop=0;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="-1080" width="968.32" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="XrsOupSMKZ9p7UgrNoPE-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
+          <mxGeometry x="-1640" y="-1079.02" width="64.07" height="99.02" as="geometry" />
+        </mxCell>
+        <mxCell id="XrsOupSMKZ9p7UgrNoPE-3" value="2025-08-25&lt;br&gt;X: @KyleHutch_" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-852.2399999999999" y="-1080" width="120.56" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rv0iyT44hvqPxdIS1dEg-7" value="1.5K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1461.68" y="-776" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rv0iyT44hvqPxdIS1dEg-8" value="3.6K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1311.68" y="-776" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rv0iyT44hvqPxdIS1dEg-9" value="7.3K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1161.6799999999998" y="-776" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rv0iyT44hvqPxdIS1dEg-10" value="10.9K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1011.68" y="-776" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rv0iyT44hvqPxdIS1dEg-11" value="14.5K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-861.68" y="-776" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rv0iyT44hvqPxdIS1dEg-12" value="Bitcoin Treasury Annual&lt;br&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;Earning Forecast&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;with 20% of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: center;&quot;&gt;BTC CAGR&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Funding Rate&lt;/span&gt;&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;shadow=1;strokeColor=none;fillColor=#ffcd28;fontSize=16;align=right;direction=south;flipH=1;shadow=1;spacing=10;fontStyle=1;fontFamily=Segoe UI Light;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="-776" width="210" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
