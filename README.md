@@ -1,10 +1,28 @@
-# Lightning-Bank
-A Bitcoin Lightning Bank Case Study leveraging LQWD Technologies and Stable Channels
+# Lightning-Bank Case Study
+
+A Bitcoin Lightning Bank Case Study leveraging LQWD Technologies and Stable Channels. Liquidity Pairing BTC Bonds with BTC 2X Leverage Longs.
+
+## Purpose
+
+Implement a Bitcoin Derivative Marketplace hosted on the Lightning Network leveraging Dynamic Liquidity Management and Stable Channels to pair Stable Receivers from traditional capital markets using corporate bonds with Stable Providers from Bitcoin and Stablecoin owners that want to create 2X BTC Leverage Long or Short positions and participate in profit sharing.
+
+## Significance
+
+The Bitcoin Derivative Market is substantially larger than the Bitcoin Spot Market with a lot of yield potential and by leveraging innovative Lightning Network technologies it can allow traditional capital markets to gain exposure to Bitcoin leverage long and short positions to provide superior yield to current market offerings while providing a mechanism for LQWD Technologies to gain access to funds.
+
+## Potential Impact
+
+The current Bitcoin Derivative Marketplaces are provided by centralized exchanges such as Binance or decentralized exchanges such GMX on Arbitrum. By offering a Bitcoin-Native Semi-Decentrialized Derivative Marketplace there is potential to capture a portion of the demand by not requiring funding rates as well as creating new demand by allowing traditional finance to participate in the trade.
 
 # Total Addressable Market (TAM)
 
 <img width="2041" height="1292" alt="Lightning Bank-TAM" src="https://github.com/user-attachments/assets/3ef83594-a1ba-44b6-a0ad-bfe29eb2aa6a" />
 
-# 2025 - 2035 BTC CAGR 30% and 2035 - 2045 BTC CAGR 20% Yield Calculation Example
+# Yield Calculation Summary
+
+<img width="3554" height="1588" alt="Summary" src="https://github.com/user-attachments/assets/b24ba0b4-cb23-472c-b1ae-b2e837cd108c" />
+
+# Yield Calculation Breakdown: 2025 - 2035 BTC CAGR 30% and 2035 - 2045 BTC CAGR 20%
 
 <img width="3744" height="1670" alt="BTC CAGR 30 20" src="https://github.com/user-attachments/assets/e94df65a-358d-48cf-b047-13c82c41da0c" />
+
