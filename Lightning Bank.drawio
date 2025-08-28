@@ -4,7 +4,7 @@
       <root>
         <mxCell id="K7Il_YmciUilAYrwmRAh-0" />
         <mxCell id="K7Il_YmciUilAYrwmRAh-1" parent="K7Il_YmciUilAYrwmRAh-0" />
-        <mxCell id="K7Il_YmciUilAYrwmRAh-9" value="Concept Proposal&lt;br&gt;Lightning Network Bitcoin Derivative Marketplace" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=18;fontStyle=1;shadow=0;spacingTop=0;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+        <mxCell id="K7Il_YmciUilAYrwmRAh-9" value="Lightning Bank Case Study" style="html=1;shape=mxgraph.infographic.flag;dx=30;dy=20;fillColor=#10739E;strokeColor=none;align=center;verticalAlign=top;fontColor=#ffffff;fontSize=18;fontStyle=1;shadow=0;spacingTop=0;fontFamily=Segoe UI;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
           <mxGeometry x="10" y="20" width="1115" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K7Il_YmciUilAYrwmRAh-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="K7Il_YmciUilAYrwmRAh-13" value="POTENTIAL&lt;br&gt;IMPACT" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;direction=south;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;fontFamily=Segoe UI;fontStyle=1;gradientColor=#ea6b66;fontSize=14;strokeWidth=2;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
           <mxGeometry x="15" y="290" width="115" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="K7Il_YmciUilAYrwmRAh-14" value="&lt;font&gt;&lt;b&gt;Implement a &lt;/b&gt;&lt;b&gt;Bitcoin Derivative Marketplace hosted on the Lightning Network&amp;nbsp;&lt;/b&gt;&lt;b&gt;leveraging&amp;nbsp;&lt;/b&gt;&lt;b&gt;Dynamic Liquidity Management and Stable Channels to pair Stable Receivers from traditional capital markets using corporate bonds with Stable Providers from Bitcoin and Stablecoin owners that want to create 2X BTC Leverage Long or Short positions and participate in profit sharing.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Segoe UI;spacing=2;spacingRight=8;spacingLeft=8;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
+        <mxCell id="K7Il_YmciUilAYrwmRAh-14" value="&lt;font&gt;&lt;b&gt;Implement a &lt;/b&gt;&lt;b&gt;Bitcoin Derivative Marketplace hosted on the Lightning Network&amp;nbsp;&lt;/b&gt;&lt;b&gt;leveraging&amp;nbsp;&lt;/b&gt;&lt;b&gt;Dynamic Liquidity Management and Stable Channels to pair Stable Receivers from traditional capital markets using corporate bonds with Stable Providers from Bitcoin holders that want to create 2X BTC Leverage Long or Short positions and participate in profit sharing.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Segoe UI;spacing=2;spacingRight=8;spacingLeft=8;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
           <mxGeometry x="142" y="130" width="978" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K7Il_YmciUilAYrwmRAh-15" value="&lt;font&gt;&lt;b&gt;The Bitcoin Derivative Market is substantially larger than the Bitcoin Spot Market with a lot of yield potential and by leveraging innovative Lightning Network technologies it can allow traditional capital markets to gain exposure to Bitcoin leverage long and short positions to provide superior yield to current market offerings while providing a mechanism for LQWD Technologies to gain access to funds.&lt;/b&gt;&lt;/font&gt;" style="rounded=1;strokeColor=none;fillColor=#EEEEEE;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Segoe UI;spacingRight=8;spacingLeft=8;fontColor=#000000;" parent="K7Il_YmciUilAYrwmRAh-1" vertex="1">
@@ -233,10 +233,10 @@
         <mxCell id="KqIesDxo9Jz2Pd781mid-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
           <mxGeometry x="62.120000000000005" y="20" width="51.76" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KqIesDxo9Jz2Pd781mid-4" value="0%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.001;arcWidth=0.4;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+        <mxCell id="KqIesDxo9Jz2Pd781mid-4" value="20%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.001;arcWidth=0.4;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
           <mxGeometry x="543.7" y="279" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KqIesDxo9Jz2Pd781mid-5" value="80%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=.8;arcWidth=0.4;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
+        <mxCell id="KqIesDxo9Jz2Pd781mid-5" value="60%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=.8;arcWidth=0.4;strokeColor=none;fillColor=#F2931E;fontSize=22;fontColor=#F2931E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
           <mxGeometry x="543.7" y="394" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KqIesDxo9Jz2Pd781mid-6" value="20%" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;whiteSpace=wrap;shape=mxgraph.infographic.partConcEllipse;startAngle=0;endAngle=0.2;arcWidth=0.4;strokeColor=none;fillColor=#10739E;fontSize=22;fontColor=#10739E;align=center;fontStyle=1;fontFamily=Segoe UI Light;shadow=1;" parent="KqIesDxo9Jz2Pd781mid-1" vertex="1">
@@ -391,7 +391,7 @@
         <mxCell id="KqIesDxo9Jz2Pd781mid-53" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="15" y="870" as="sourcePoint" />
-            <mxPoint x="1230" y="870" as="targetPoint" />
+            <mxPoint x="1250" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KqIesDxo9Jz2Pd781mid-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=1;fontFamily=Segoe UI Light;" parent="KqIesDxo9Jz2Pd781mid-1" edge="1">
@@ -905,7 +905,7 @@
           <mxGeometry x="-1126.6799999999998" y="-416" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q7dquLjJcAC0k5EE_MJn-27" value="Stable Provider&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;spacingTop=-150;" parent="1" vertex="1">
-          <mxGeometry x="-1125.56" y="-488" width="70" height="100" as="geometry" />
+          <mxGeometry x="-1125.56" y="-490" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q7dquLjJcAC0k5EE_MJn-28" value="Stable Receiver&lt;br&gt;Bitcoin" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#10739E;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=16;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
           <mxGeometry x="-976.68" y="-456" width="70" height="140" as="geometry" />
@@ -928,7 +928,7 @@
         <mxCell id="XrsOupSMKZ9p7UgrNoPE-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;shadow=1;fontFamily=Segoe UI Light;" parent="1" vertex="1">
           <mxGeometry x="-1640" y="-1079.02" width="64.07" height="99.02" as="geometry" />
         </mxCell>
-        <mxCell id="XrsOupSMKZ9p7UgrNoPE-3" value="2025-08-25&lt;br&gt;X: @KyleHutch_" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="XrsOupSMKZ9p7UgrNoPE-3" value="2025-08-25&lt;br&gt;X: @KyleHutch_" style="text;html=1;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Segoe UI Light;fontStyle=0;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-852.2399999999999" y="-1080" width="120.56" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rv0iyT44hvqPxdIS1dEg-7" value="1.5K" style="shape=rect;fillColor=#ffcd28;strokeColor=none;fontSize=16;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=5;rounded=0;fontFamily=Segoe UI Light;fontStyle=1;shadow=1;gradientColor=#ffa500;" parent="1" vertex="1">
