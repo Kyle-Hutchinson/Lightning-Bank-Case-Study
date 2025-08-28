@@ -1,4 +1,4 @@
-# Lightning-Bank Case Study
+# Lightning Bank Case Study
 
 A Bitcoin Lightning Bank Case Study leveraging LQWD Technologies and Stable Channels. Liquidity Pairing BTC Bonds with BTC 2X Leverage Longs.
 
