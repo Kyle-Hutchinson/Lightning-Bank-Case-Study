@@ -4,7 +4,7 @@ A Bitcoin Lightning Bank Case Study leveraging LQWD Technologies and Stable Chan
 
 ## Purpose
 
-Implement a Bitcoin Derivative Marketplace hosted on the Lightning Network leveraging Dynamic Liquidity Management and Stable Channels to pair Stable Receivers from traditional capital markets using corporate bonds with Stable Providers from Bitcoin and Stablecoin owners that want to create 2X BTC Leverage Long or Short positions and participate in profit sharing.
+Implement a Bitcoin Derivative Marketplace hosted on the Lightning Network leveraging Dynamic Liquidity Management and Stable Channels to pair Stable Receivers from traditional capital markets using corporate bonds with Stable Providers from Bitcoin holders that want to create 2X BTC Leverage Long or Short positions and participate in profit sharing.
 
 ## Significance
 
@@ -26,3 +26,6 @@ The current Bitcoin Derivative Marketplaces are provided by centralized exchange
 
 <img width="3744" height="1670" alt="BTC CAGR 30 20" src="https://github.com/user-attachments/assets/e94df65a-358d-48cf-b047-13c82c41da0c" />
 
+# Bitcoin Total Value Locked (BTC TVL) Milestone Example
+
+<img width="1019" height="855" alt="Lightning Bank-TVL Milestones" src="https://github.com/user-attachments/assets/01f63c12-fe21-488e-b919-8fd1af487b81" />
