@@ -39,3 +39,7 @@ Lightning Network Stable Channels
 LQWD Technologies
 - https://lqwdtech.com/
 - https://github.com/ShoneAnstey/NakamotoEffect
+
+## External Links
+
+Draw.io download: https://github.com/jgraph/drawio-desktop/releases
