@@ -30,6 +30,10 @@ The current Bitcoin Derivative Marketplaces are provided by centralized exchange
 
 <img width="1019" height="855" alt="Lightning Bank-TVL Milestones" src="https://github.com/user-attachments/assets/01f63c12-fe21-488e-b919-8fd1af487b81" />
 
+## Bitcoin Price Impact Scenarios
+
+<img width="1691" height="2043" alt="Lightning Bank-Bitcoin Price Impact Scenarios" src="https://github.com/user-attachments/assets/e1762ba8-7008-4b81-a832-0adeb8ecfc10" />
+
 ## Inspirations
 
 Lightning Network Stable Channels
