@@ -30,6 +30,14 @@ The current Bitcoin Derivative Marketplaces are provided by centralized exchange
 
 <img width="1019" height="855" alt="Lightning Bank-TVL Milestones" src="https://github.com/user-attachments/assets/01f63c12-fe21-488e-b919-8fd1af487b81" />
 
+## CeFi vs. DeFi
+
+<img width="1971" height="1602" alt="Lightning Bank-CeFi vs  DeFi" src="https://github.com/user-attachments/assets/84b8e1e1-48f6-418c-9458-5fe52ee705b5" />
+
+## Bitcoin DeFi
+
+<img width="1955" height="2091" alt="Lightning Bank-Bitcoin DeFi" src="https://github.com/user-attachments/assets/a3465ffd-d558-4472-b5fe-4368354991fe" />
+
 ## Bitcoin Stability Bond Workflow
 
 <img width="1961" height="1767" alt="Lightning Bank-Bitcoin Stability Bond Workflow" src="https://github.com/user-attachments/assets/081daee6-b8f3-4fe3-8347-b34e1a48bc6d" />
