@@ -36,7 +36,8 @@ The current Bitcoin Derivative Marketplaces are provided by centralized exchange
 
 ## Bitcoin DeFi
 
-<img width="1955" height="2091" alt="Lightning Bank-Bitcoin DeFi" src="https://github.com/user-attachments/assets/a3465ffd-d558-4472-b5fe-4368354991fe" />
+<img width="1955" height="2091" alt="Lightning Bank-Bitcoin DeFi" src="https://github.com/user-attachments/assets/98dda3ce-415d-4b00-8402-ce5864265fa1" />
+
 
 ## Bitcoin Stability Bond Workflow
 
