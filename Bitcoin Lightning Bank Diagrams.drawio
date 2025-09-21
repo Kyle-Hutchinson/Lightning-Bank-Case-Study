@@ -713,7 +713,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VvxI0U6mcHYSTQ9KKM06" name="Annual Yield Estimate Summary">
-    <mxGraphModel dx="4074" dy="2406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -906,7 +906,7 @@
         <mxCell id="IXOu9B6qZb9uuyTPXg6p-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="100" width="107.54" height="166.22" as="geometry" />
         </mxCell>
-        <mxCell id="eerml7Xeo8eE0ApZTgOO-144" value="Bitcoin Yield Remaining" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fillOpacity=100;shadow=1;fontFamily=Segoe UI;fontStyle=1;fontSize=25;verticalAlign=middle;spacingTop=0;spacing=2;spacingLeft=20;spacingRight=20;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="eerml7Xeo8eE0ApZTgOO-144" value="Bitcoin Yield Burndown&lt;br&gt;&lt;br&gt;BTC Yield Remaining&lt;br&gt;&lt;br&gt;* All BTC Yield is extracted from Stable Receiver then distributed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fillOpacity=100;shadow=1;fontFamily=Segoe UI;fontStyle=1;fontSize=25;verticalAlign=middle;spacingTop=0;spacing=2;spacingLeft=20;spacingRight=20;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="470" y="770" width="510" height="230" as="geometry" />
         </mxCell>
         <mxCell id="eerml7Xeo8eE0ApZTgOO-148" value="45.52%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;fillOpacity=100;shadow=1;fontFamily=Segoe UI;fontStyle=1;fontSize=30;verticalAlign=middle;spacingTop=0;spacing=2;spacingLeft=20;spacingRight=20;" parent="1" vertex="1">
