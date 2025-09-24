@@ -24,6 +24,9 @@ LQWD Technologies
 - https://lqwdtech.com/
 - https://github.com/ShoneAnstey/NakamotoEffect
 
+Original Total Addressable Market Diagram
+- https://x.com/Croesus_BTC
+
 ## External Links
 
 Draw.io download: https://github.com/jgraph/drawio-desktop/releases
