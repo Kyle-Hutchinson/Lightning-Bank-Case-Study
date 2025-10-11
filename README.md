@@ -23,6 +23,7 @@ Lightning Network Stable Channels
 LQWD Technologies
 - https://lqwdtech.com/
 - https://github.com/ShoneAnstey/NakamotoEffect
+- https://github.com/ShoneAnstey/Bitcoin-Treasury-2.0
 
 Original Total Addressable Market Diagram
 - https://x.com/Croesus_BTC
