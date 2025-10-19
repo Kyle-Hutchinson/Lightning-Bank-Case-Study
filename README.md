@@ -2,6 +2,8 @@
 
 A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Receiver and Stable Provider but also introducing the concept of an intermediary Stable Balancer Automated Market Maker (AMM) to automatically allocate liquidity and yield. Liquidity Pairing BTC Bonds with BTC 2X Leverage Longs.
 
+<img width="3944" height="5212" alt="Bitcoin_Lightning_Bank_Diagrams-Lightning Bank Treasury 2 0" src="https://github.com/user-attachments/assets/2626f99b-9272-4759-86ac-911bcd13f7b5" />
+
 ## Purpose
 
 Implement a Bitcoin Derivative Marketplace hosted on the Lightning Network leveraging Dynamic Liquidity Management and Stable Channels to pair Stable Receivers from traditional capital markets using corporate bonds with Stable Providers from Bitcoin holders that want to create 2X BTC Leverage Long or Short positions and participate in profit sharing.
