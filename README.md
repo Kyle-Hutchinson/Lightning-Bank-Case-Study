@@ -4,7 +4,7 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 <img width="8632" height="5104" alt="Bitcoin_Lightning_Bank_Diagrams-T2 - Business Model" src="https://github.com/user-attachments/assets/1de6df9e-02f8-460e-814c-274a64ef96aa" />
 
-<img width="11672" height="7456" alt="Bitcoin_Lightning_Bank_Diagrams-Credit Derivative Rates" src="https://github.com/user-attachments/assets/fcc4541f-5771-4b84-a99f-982b52da8f80" />
+<img width="8754" height="5589" alt="Bitcoin_Lightning_Bank_Diagrams-T2 - Credit Derivative Rates" src="https://github.com/user-attachments/assets/ebb399d0-42ba-4221-b5b7-9e8e0611fc70" />
 
 
 ## Purpose
