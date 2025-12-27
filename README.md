@@ -4,8 +4,6 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 <img width="4668" height="2844" alt="Bitcoin_Lightning_Bank_Diagrams-CredLit Ecosystem" src="https://github.com/user-attachments/assets/279c28d2-1c36-4932-b46c-78cae277c09d" />
 
-<img width="3740" height="1798" alt="r" src="https://github.com/user-attachments/assets/4244cb2a-5283-4545-9fa6-b94727d6a2d7" />
-
 
 ## Purpose
 
