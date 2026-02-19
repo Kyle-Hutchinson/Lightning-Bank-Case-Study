@@ -2,15 +2,7 @@
 
 A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Receiver and Stable Provider but also introducing the concept of an intermediary Stable Balancer Automated Market Maker (AMM) to automatically allocate liquidity and yield. Liquidity Pairing BTC Bonds with BTC 2X Leverage Longs.
 
-![G7dHKqbWwAAsv6o](https://github.com/user-attachments/assets/3297e2a7-6a04-454c-87d8-5dc67af52ca2)
-
----------------
-
-![G8v_DQ-W4AAirk2](https://github.com/user-attachments/assets/4f49f424-57f7-4e0d-93aa-1acf3ca43eb6)
-
----------------
-
-<img width="3740" height="1816" alt="G9MWR8cWkAIiBTz" src="https://github.com/user-attachments/assets/72c9dbb7-28e3-4d83-88f2-ac75078d741a" />
+<img width="3710" height="1738" alt="R3" src="https://github.com/user-attachments/assets/16ae669b-ca51-45e6-9ed5-244fb4f1091c" />
 
 ---------------
 
@@ -18,7 +10,11 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
-<img width="3722" height="1812" alt="G9NytCIXgAAcu1O" src="https://github.com/user-attachments/assets/2aba569d-53e4-494d-87eb-c7bac5980510" />
+<img width="10772" height="5472" alt="Bitcoin_Lightning_Bank_Diagrams-BGCS" src="https://github.com/user-attachments/assets/9cf7132d-a0fa-4ab1-805d-8a878748b923" />
+
+---------------
+
+<img width="3726" height="1818" alt="dc2" src="https://github.com/user-attachments/assets/1261f65a-176a-4a12-868d-51ce0441c721" />
 
 ## Purpose
 
