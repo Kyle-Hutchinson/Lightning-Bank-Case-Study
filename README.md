@@ -2,7 +2,7 @@
 
 A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Receiver and Stable Provider but also introducing the concept of an intermediary Stable Balancer Automated Market Maker (AMM) to automatically allocate liquidity and yield. Liquidity Pairing BTC Bonds with BTC 2X Leverage Longs.
 
-<img width="3732" height="1834" alt="R4" src="https://github.com/user-attachments/assets/f958d2b4-aac7-4d69-beee-007292fe12b6" />
+<img width="3754" height="1836" alt="r7" src="https://github.com/user-attachments/assets/5fcfedbc-4204-48e1-9336-b965cde97a56" />
 
 ---------------
 
@@ -14,7 +14,7 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
-<img width="3726" height="1818" alt="dc2" src="https://github.com/user-attachments/assets/1261f65a-176a-4a12-868d-51ce0441c721" />
+<img width="3732" height="1810" alt="dc2" src="https://github.com/user-attachments/assets/091a861e-c6fc-44f8-82f6-e8f04cc3150e" />
 
 ## Purpose
 
