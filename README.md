@@ -6,6 +6,10 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
+![Technology Stack Overview](images/Bitcoin_Lightning_Bank_Diagrams-TS.png)
+
+---------------
+
 ![Bitcoin Borrower Yield Summary](images/BLCD_Bitcoin_Borrower_Yield_Summary.png)
 
 ---------------
