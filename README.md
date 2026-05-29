@@ -6,6 +6,10 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
+![The_Sovereign_Economy](images/Bitcoin_Lightning_Bank_Diagrams-The_Sovereign_Economy.png)
+
+---------------
+
 ![Technology Stack Overview](images/Bitcoin_Lightning_Bank_Diagrams-Technology_Stack.png)
 
 ---------------
@@ -22,7 +26,7 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
-![Digital Credit  2.0](images/Digital_Credit_2.0.png)
+![Bitcoin_Borrower_Side-By-Side_Comparison](images/Bitcoin_Borrower_Side-By-Side_Comparison.png)
 
 ## Purpose
 
