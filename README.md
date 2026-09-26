@@ -6,6 +6,10 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
+![SATSTREAM - Four Quadrants Benefits](images/SATSTREAM-Four_Quadrants_Benefits.png)
+
+---------------
+
 ![Lightning Credit Derivatives](images/Bitcoin_Lightning_Bank_Diagrams-Business_Model.png)
 
 ---------------
