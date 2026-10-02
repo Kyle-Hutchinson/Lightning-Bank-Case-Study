@@ -10,6 +10,10 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
+![SATSTREAM - Three Spectrums](images/SATSTREAM-Three_Spectrums.png)
+
+---------------
+
 ![Lightning Credit Derivatives](images/Bitcoin_Lightning_Bank_Diagrams-Business_Model.png)
 
 ---------------
