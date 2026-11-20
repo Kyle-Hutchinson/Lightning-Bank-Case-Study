@@ -18,7 +18,7 @@ A Bitcoin Lightning Bank Case Study leveraging Stable Channels as the Stable Rec
 
 ---------------
 
-![The_Sovereign_Economy](images/Bitcoin_Lightning_Bank_Diagrams-The_Sovereign_Economy.png)
+![The_Sovereign_Economy](images/SATSTREAM-The_Sovereign_Economy.png)
 
 ---------------
 
